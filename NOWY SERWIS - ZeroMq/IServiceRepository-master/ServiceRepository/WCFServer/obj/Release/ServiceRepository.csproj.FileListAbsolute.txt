@@ -1,0 +1,34 @@
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.exe.config
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.exe
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.pdb
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.dll
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\log4net.dll
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.xml
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\log4net.xml
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.exe
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.exe.config
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.exe
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.exe.config
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.exe
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.exe
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\clrzmq.dll
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.dll
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\log4net.dll
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\clrzmq.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\clrzmq.xml
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.xml
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\log4net.xml
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\ServiceRepository.csprojResolveAssemblyReference.cache
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - Kopia (2)\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - ZeroMq\IServiceRepository-master\ServiceRepository\WCFServer\bin\Release\WCFServer.exe.config
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - ZeroMq\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.exe
+C:\Users\Gry\Documents\GitHub\projektSOA\NOWY SERWIS - ZeroMq\IServiceRepository-master\ServiceRepository\WCFServer\obj\Release\WCFServer.pdb

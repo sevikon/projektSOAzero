@@ -1,0 +1,294 @@
+2014-05-06 16:29:18,787 [8] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-06 16:29:25,083 [13] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: serwis1 pod adresem: adres_serwisu_1
+2014-05-06 16:29:25,624 [13] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: serwis2 pod adresem: adres_serwisu_2
+2014-05-06 16:29:28,716 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-06 16:29:31,529 [15] INFO  WCFServer.Models.Repository [(null)] - Serwis serwis1 wygas³.
+2014-05-06 16:29:31,757 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-06 16:29:34,796 [13] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-06 16:29:37,827 [13] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-06 16:29:44,704 [11] INFO  WCFServer.Models.Repository [(null)] - Serwis serwis2 wygas³.
+2014-05-06 16:29:51,529 [8] INFO  NServiceRepository.Program [(null)] - Zatrzymanie Serwera
+2014-05-21 16:26:56,351 [9] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:23:05,441 [8] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:24:17,862 [9] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:26:21,277 [10] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:27:06,868 [10] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:28:01,070 [10] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:29:20,816 [9] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:33:37,756 [7] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 14:34:14,330 [9] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 16:54:42,958 [7] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:02:33,481 [8] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:06:07,407 [1] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:10:47,542 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: serwis1 pod adresem: adres_serwisu_1
+2014-05-22 17:10:47,610 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: serwis2 pod adresem: adres_serwisu_2
+2014-05-22 17:10:50,619 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-22 17:10:53,624 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-22 17:10:54,233 [9] INFO  WCFServer.Models.NonRepository [(null)] - Serwis serwis1 wygas³.
+2014-05-22 17:10:56,631 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: serwis2
+2014-05-22 17:15:54,527 [1] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:15:59,972 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://localhost:41266/IAccount
+2014-05-22 17:16:06,609 [13] INFO  WCFServer.Models.NonRepository [(null)] - Serwis IAccountService wygas³.
+2014-05-22 17:19:29,783 [1] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:19:34,602 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://localhost:41266/IAccount
+2014-05-22 17:19:37,702 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:40,700 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:43,704 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:46,713 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:49,725 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:52,738 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:55,749 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:19:58,758 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:01,766 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:04,783 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:07,793 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:10,803 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:13,811 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:16,824 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:19,834 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:22,848 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:25,854 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:28,868 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:31,877 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:34,888 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:37,898 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:20:40,907 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:22:05,082 [7] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:23:00,614 [7] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:23:51,904 [10] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:24:30,929 [7] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:24:40,089 [13] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://localhost:41266/IAccount
+2014-05-22 17:24:43,598 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:24:46,466 [13] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:22,663 [8] INFO  WCFServer.Models.Repository [(null)] - Serwis IAccountService wygas³.
+2014-05-22 17:25:23,453 [8] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:25:27,343 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://localhost:41266/IAccount
+2014-05-22 17:25:30,605 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:33,547 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:36,578 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:39,566 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:42,575 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:45,592 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:48,601 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:51,609 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:54,620 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:25:57,630 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:00,659 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:03,651 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:06,672 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:09,673 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:12,710 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:15,699 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:18,710 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:21,719 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:24,732 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:27,749 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:30,752 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:33,762 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:36,773 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:39,784 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:42,796 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:45,806 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:48,815 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:51,826 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:54,835 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:26:57,849 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:00,860 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:03,870 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:06,877 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:09,898 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:12,907 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:15,920 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:18,924 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:21,933 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:24,943 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:27,958 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:30,968 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:33,979 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:36,990 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:39,999 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:43,017 [12] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:46,022 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:49,033 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:52,043 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:55,052 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:27:58,063 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:01,083 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:04,085 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:07,126 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:10,103 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:13,126 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:16,124 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:19,137 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:22,149 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:25,154 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:28,168 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:31,174 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:34,198 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:37,205 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:40,216 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:43,225 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:46,240 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:49,251 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:52,260 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:55,268 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:28:58,283 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:01,295 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:04,304 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:07,314 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:10,324 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:13,333 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:16,343 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:19,364 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:22,374 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:25,379 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:28,390 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:31,402 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:34,410 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:37,422 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:40,426 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:43,442 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:46,446 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:49,463 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:52,478 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:55,489 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:29:58,499 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:01,506 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:05,616 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:07,527 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:10,543 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:13,553 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:16,567 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:19,576 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:24,751 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:25,600 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:28,615 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:31,618 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:34,629 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:37,640 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:40,652 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:43,662 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:46,678 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:49,681 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:52,690 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:55,701 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:30:58,715 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:01,719 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:04,736 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:07,744 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:10,757 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:13,770 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:16,776 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:19,791 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:22,801 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:31:42,964 [9] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:32:21,673 [19] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://192.168.1.42:41266/IAccount
+2014-05-22 17:32:24,767 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:27,752 [21] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:30,763 [22] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:33,773 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:36,783 [21] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:39,793 [21] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:42,805 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:45,818 [21] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:48,828 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:51,910 [21] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:54,853 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:32:57,858 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:33:00,870 [10] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:33:46,083 [10] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:37:36,981 [8] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:38:26,174 [20] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://192.168.0.90:41266/IAccount
+2014-05-22 17:38:29,281 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:38:32,264 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:38:35,228 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: ICanExternalTransferMoney pod adresem: net.tcp://192.168.0.99:50008/ICanExternalTransferMoney
+2014-05-22 17:38:35,276 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:38:35,289 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: ICanExternalTransferMoney
+2014-05-22 17:39:14,385 [19] INFO  WCFServer.Models.NonRepository [(null)] - Serwis IAccountService wygas³.
+2014-05-22 17:39:18,456 [19] INFO  WCFServer.Models.NonRepository [(null)] - Serwis ICanExternalTransferMoney wygas³.
+2014-05-22 17:39:20,620 [20] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IClientRepository pod adresem: 
+2014-05-22 17:39:20,621 [24] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: AuditorService pod adresem: net.tcp://localhost:54321/IAuditorService
+2014-05-22 17:39:20,690 [24] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:39:26,655 [22] INFO  WCFServer.Models.NonRepository [(null)] - Serwis IClientRepository wygas³.
+2014-05-22 17:39:49,433 [1] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:40:04,164 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://192.168.0.90:41266/IAccount
+2014-05-22 17:40:07,240 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:40:10,236 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:40:13,241 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:40:16,255 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:40:19,264 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:40:22,275 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:40:24,950 [8] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: ICanExternalTransferMoney pod adresem: net.tcp://192.168.0.99:50008/ICanExternalTransferMoney
+2014-05-22 17:40:25,012 [8] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: ICanExternalTransferMoney
+2014-05-22 17:40:28,915 [11] INFO  WCFServer.Models.NonRepository [(null)] - Serwis IAccountService wygas³.
+2014-05-22 17:40:31,957 [11] INFO  WCFServer.Models.NonRepository [(null)] - Serwis ICanExternalTransferMoney wygas³.
+2014-05-22 17:40:48,370 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: AuditorService pod adresem: net.tcp://localhost:54321/IAuditorService
+2014-05-22 17:40:48,407 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:40:55,281 [11] INFO  WCFServer.Models.NonRepository [(null)] - Serwis AuditorService wygas³.
+2014-05-22 17:45:26,433 [1] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:45:42,464 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://192.168.0.90:41266/IAccount
+2014-05-22 17:45:45,527 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:45:48,522 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:45:51,527 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:45:54,544 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:45:57,555 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:17,353 [1] INFO  NServiceRepository.Program [(null)] - Uruchomienie Serwera
+2014-05-22 17:46:22,202 [8] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: ICanExternalTransferMoney pod adresem: net.tcp://192.168.0.99:50008/ICanExternalTransferMoney
+2014-05-22 17:46:22,263 [8] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: ICanExternalTransferMoney
+2014-05-22 17:46:28,451 [10] INFO  WCFServer.Models.NonRepository [(null)] - Serwis ICanExternalTransferMoney wygas³.
+2014-05-22 17:46:32,805 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://192.168.0.90:41266/IAccount
+2014-05-22 17:46:35,882 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:38,880 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:40,289 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: AuditorService pod adresem: net.tcp://localhost:54321/IAuditorService
+2014-05-22 17:46:40,326 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:46:41,885 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:44,900 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:46,703 [10] INFO  WCFServer.Models.NonRepository [(null)] - Serwis AuditorService wygas³.
+2014-05-22 17:46:47,911 [9] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:47,984 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: AuditorService pod adresem: net.tcp://localhost:54321/IAuditorService
+2014-05-22 17:46:48,022 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:46:50,920 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:51,030 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:46:53,929 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:54,027 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:46:56,939 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:46:57,027 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:46:59,954 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:47:00,028 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:47:02,965 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:47:03,029 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: AuditorService
+2014-05-22 17:47:04,595 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Wyrejestrowano serwis: AuditorService
+2014-05-22 17:47:05,975 [11] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:47:07,244 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: ICanExternalTransferMoney pod adresem: net.tcp://192.168.0.99:50008/ICanExternalTransferMoney
+2014-05-22 17:47:07,303 [14] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: ICanExternalTransferMoney
+2014-05-22 17:47:12,053 [13] INFO  WCFServer.Models.NonRepository [(null)] - Serwis IAccountService wygas³.
+2014-05-22 17:47:14,081 [13] INFO  WCFServer.Models.NonRepository [(null)] - Serwis ICanExternalTransferMoney wygas³.
+2014-05-22 17:47:52,609 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: IAccountService pod adresem: net.tcp://192.168.0.90:41266/IAccount
+2014-05-22 17:47:55,667 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:47:58,674 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:01,684 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:04,692 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:07,702 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:10,712 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:13,728 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:16,738 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:19,746 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:22,758 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:25,768 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:28,778 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:31,789 [18] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:34,799 [18] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:37,811 [18] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:40,819 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:43,831 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:46,847 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:49,857 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:52,865 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:55,877 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:48:58,887 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: IAccountService
+2014-05-22 17:49:01,022 [19] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: ICanExternalTransferMoney pod adresem: net.tcp://192.168.0.99:50008/ICanExternalTransferMoney
+2014-05-22 17:49:01,095 [16] INFO  NServiceRepository.ServiceRepository [(null)] - Zglosil sie serwis: ICanExternalTransferMoney
+2014-05-22 17:49:05,622 [13] INFO  WCFServer.Models.NonRepository [(null)] - Serwis IAccountService wygas³.
+2014-05-22 17:49:07,650 [13] INFO  WCFServer.Models.NonRepository [(null)] - Serwis ICanExternalTransferMoney wygas³.
+2014-05-22 17:49:16,120 [19] INFO  NServiceRepository.ServiceRepository [(null)] - Zarejestrowano serwis: ICanTransferMoney pod adresem: net.tcp://192.168.0.98:50000/ICanTransferMoney
+2014-05-22 17:49:22,860 [10] INFO  WCFServer.Models.NonRepository [(null)] - Serwis ICanTransferMoney wygas³.

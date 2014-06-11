@@ -1,0 +1,44 @@
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\WCFServer\WCFServer\obj\Debug\ServiceRepository.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\WCFServer\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\WCFServer\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\WCFServer\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+E:\Dokumenty\Konrad\Windows\Downloads\IServiceRepository-master\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe.config
+E:\Dokumenty\Konrad\Windows\Downloads\IServiceRepository-master\IServiceRepository-master\ServiceRepository\WCFServer\obj\Debug\WCFServer.exe
+E:\Dokumenty\Konrad\Windows\Downloads\IServiceRepository-master\IServiceRepository-master\ServiceRepository\WCFServer\obj\Debug\WCFServer.pdb
+E:\Dokumenty\Konrad\Windows\Downloads\IServiceRepository-master\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe
+E:\Dokumenty\Konrad\Windows\Downloads\IServiceRepository-master\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\WCFServer.pdb
+E:\Dokumenty\Konrad\Windows\Downloads\IServiceRepository-master\IServiceRepository-master\ServiceRepository\WCFServer\obj\Debug\ServiceRepository.csprojResolveAssemblyReference.cache
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\obj\Debug\ServiceRepository.csprojResolveAssemblyReference.cache
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\bin\Debug\log4net.dll
+C:\Users\Gry\Documents\GitHub\projektSOA\ServiceRepository\WCFServer\bin\Debug\log4net.xml
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\EntityFramework.dll
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\log4net.dll
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\EntityFramework.xml
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\bin\Debug\log4net.xml
+C:\Users\Gry\Desktop\ServiceRepository\WCFServer\obj\Debug\ServiceRepository.csprojResolveAssemblyReference.cache
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\EntityFramework.dll
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\log4net.dll
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\EntityFramework.xml
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\bin\Debug\log4net.xml
+C:\Users\Gośka\Downloads\IServiceRepository-master\ServiceRepository\WCFServer\obj\Debug\ServiceRepository.csprojResolveAssemblyReference.cache
